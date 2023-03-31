@@ -1,5 +1,7 @@
 # Hazel
 
+> Updated the game he made in 1 hour to match the progress in the Java version since he made the game before the rotated quads draw update.
+
 ![Hazel](/Resources/Branding/Hazel_Logo_Text_Light_Square.png?raw=true "Hazel")
 
 Hazel is primarily an early-stage interactive application and rendering engine for Windows. Currently not much is implemented, however (almost) everything inside this repository is being created within YouTube videos, found at [thecherno.com/engine](https://thecherno.com/engine). 
